@@ -77,11 +77,15 @@ https://help.github.com/articles/set-up-git/
 ## Upotreba
 
 Kreirati repository. Dodati me kao contributora (dbaric ili drazen@dump.hr). Kada obavite task (1) javiti na Slack.
-|       Task number         |Task name|Task description|
-|----------------|-------------------------------|-----------------------------|
-|/|Setup|Create a file named `text.txt`. File content: `Dobar dan. Ja san u masteru`. Commit and push to master.         |
-|1|Branching|Open a new branch, edit `text.txt` so it reads `Dobar dan. Ja NISAN u masteru`. Push branch remotly and open pull request ([click if you get stuck](https://help.github.com/articles/creating-a-pull-request/#creating-the-pull-request)). Assign me for code review and contact me on Slack.        |
-|/|Merge|After I approve your pull request, resolve conflict (as you wish) using web editor and delete the branch. [(click if you get stuck again)](https://help.github.com/articles/resolving-a-merge-conflict-on-github/)|
+
+(ovo je inače trebala biti tablica.. sorry)
+
+|/| Setup 
+- Create a file named `text.txt`. File content: `Dobar dan. Ja san u masteru`. Commit and push to master.
+|1|Branching
+- Open a new branch, edit `text.txt` so it reads `Dobar dan. Ja NISAN u masteru`. Push branch remotly and open pull request ([click if you get stuck](https://help.github.com/articles/creating-a-pull-request/#creating-the-pull-request)). Assign me for code review and contact me on Slack.
+|/|Merge
+- After I approve your pull request, resolve conflict (as you wish) using web editor and delete the branch. [(click if you get stuck again)](https://help.github.com/articles/resolving-a-merge-conflict-on-github/)|
 
 
 
@@ -97,8 +101,8 @@ Kod UI developmenta, taskove dijelimo na neke vizualne cjeline. Pogledajmo primj
 
 |       Task number         |Task name|Task description|
 |----------------|-------------------------------|-----------------------------|
-|1|Navigation            |Site navigation (which consists of logo, links, search and user avatar)            |
-|2|Content |Left container - articles            |
+|1|Navigation            |Site navigation (which consists of logo, links, search and user avatar)|
+|2|Content |Left container - articles|
 |3|Sidebar|List on the right, probably links|
 
 
